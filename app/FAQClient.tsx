@@ -111,7 +111,7 @@ export default function FAQClient() {
 
           <footer className="faq-footer">
             <p>
-              Still have questions? Reach out in the community chat.
+              Still have questions? Reach out in the support chat.
             </p>
           </footer>
         </div>
