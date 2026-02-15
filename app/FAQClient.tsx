@@ -13,11 +13,11 @@ const FAQ_ITEMS = [
   },
   {
     q: "What are the different membership tiers?",
-    a: "We offer four tiers: Premium ($29.99 for 2 days, $59.99/week, $119.99/month, $279.99/3 months, or $1,999.99 lifetime), High Rollers ($149.99/week or $399.99/month), Max Bet Play of the Day ($49.99 one-time purchase), and Player Props (starting at $9.99/day).",
+    a: "We offer four tiers: Premium ($39.99/week or $79.99/month), High Rollers ($249.99/month), Max Bet Play of the Day ($24.99 one-time purchase), and Player Props ($19.99/week or $49.99/month).",
   },
   {
     q: "What is included in Premium?",
-    a: "Premium gives you all daily plays including straight bets, parlays, and plus-money plays. It also includes the Max Bet Play of the Day every single day — that's a $49.99/day pick built right into your subscription.",
+    a: "Premium gives you all daily plays including straight bets, parlays, and plus-money plays. It also includes the Max Bet Play of the Day every single day — that's a $24.99/day pick built right into your subscription.",
   },
   {
     q: "What is High Rollers?",
@@ -25,11 +25,11 @@ const FAQ_ITEMS = [
   },
   {
     q: "What is the Max Bet Play of the Day?",
-    a: "The Max Bet Play of the Day is our highest-conviction, most researched pick of the day. One play, max confidence. It's included with Premium and High Rollers, or available as a standalone $49.99 one-time purchase.",
+    a: "The Max Bet Play of the Day is our highest-conviction, most researched pick of the day. One play, max confidence. It's included with Premium and High Rollers, or available as a standalone $24.99 one-time purchase.",
   },
   {
     q: "What is Player Props?",
-    a: "Player Props is our newest offering — daily player prop picks with full analysis. Available starting at $9.99/day, $29.99/week, or $59.99/month. It's also included in the High Rollers tier.",
+    a: "Player Props is our newest offering — daily player prop picks powered by ChalkBoard with full analysis. Available at $19.99/week or $49.99/month. It's also included in the High Rollers tier.",
   },
   {
     q: "When are plays posted?",
